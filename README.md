@@ -18,7 +18,7 @@ I'm passionate about **quantum technologies** and **AI**, with a strong foundati
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roman1618&show_icons=true&theme=dark)
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/roman1618/roman1618/blob/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect with Me
 <div id="badges">
