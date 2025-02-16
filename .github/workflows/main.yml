@@ -2,7 +2,7 @@ name: Generate Datas
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Execute every 12 hours
+    - cron: '0 */12 * * *'  # Execute every 12 hours at minute 0
   workflow_dispatch:
 
 jobs:
@@ -11,9 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Snake animation for contribution graph
+      # Snake Animation
       - name: Generate snake animation
         uses: Platane/snk@master
+        id: snake-gif
         with:
           github_user_name: roman1618
           svg_out_path: dist/github-contribution-grid-snake.svg
