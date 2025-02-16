@@ -6,7 +6,7 @@ I'm passionate about **quantum technologies** and **AI**, with a strong foundati
 
 ## 🔬 Research & Interests
 - **Quantum Computing** 🧑‍🔬 (Superconducting Circuits, Tensor Networks, Monte Carlo Methods)
-- **Machine Learning & AI** 🤖 (Deep Neural Networks, Normalizing Flows)
+- **Machine Learning & AI** 🤖 (Deep Neural Networks)
 - **Computational Physics** 📊 (Python, TensorFlow, Fortran)
 
 ## 🛠️ Tools & Technologies
