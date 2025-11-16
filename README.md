@@ -2,12 +2,7 @@
 
 # 👋 Hi, I'm @roman1618
 
-I'm passionate about **quantum technologies** and **AI**, with a strong foundation in **physics** and **electronic engineering**. Currently pursuing an MSc in **Quantum Science and Technology**, I have hands-on experience in **experimental physics**, **machine learning**, and **computational techniques**.
-
-## 🔬 Research & Interests
-- **Quantum Computing** 🧑‍🔬 (Superconducting Circuits, Tensor Networks, Monte Carlo Methods)
-- **Machine Learning & AI** 🤖 (Deep Neural Networks)
-- **Computational Physics** 📊 (Python, Fortran)
+I'm a **PhD student in quantum computing** passionate about the intersection of **quantum technologies** and **AI**. With a strong foundation in **physics** and **electronic engineering**, I recently completed my MSc in **Quantum Science and Technology**. My background includes hands-on experience in **experimental physics**, **machine learning**, and **computational techniques**.
 
 ## 🛠️ Tools & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -21,7 +16,7 @@ I'm passionate about **quantum technologies** and **AI**, with a strong foundati
 
 ## 📫 Connect with Me
 <div id="badges">
-  <a href="https://linkedin.com/in/roman-aseguinolaza-gallo-55ab37294">
+  <a href="www.linkedin.com/in/roman-a-g">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:romanasello@gmail.com">
